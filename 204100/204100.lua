@@ -2,7 +2,7 @@
 -- Discord: tsaritsa.of.snezhnaya
 -- Profile: https://discord.com/users/1243925000369733806
 -- Server:  https://discord.gg/24WYpdVHNw
-addappid(204100, 1, "12582e73f0e0e2067b3e8844a11971d78d386c641ccd1b68f1d968ebdecaac29")
+addappid(204100)
 addappid(204102, 1, "167f0b123df8cba56896db84579bafbbad31ba8dfefdb40dc4ab47734aeb7e48")
 addappid(204104, 1, "dce5aa99fab4fdb1bfb2ddd967d6d4ecd69b36ead35c7c44b5bbb0cf6be6af35")
 addappid(204105, 1, "c05905041da5986ede4ce2fd3f66027e5e88b443d0316dda2efd19cdd7a72a62")
